@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hw31" />
+        <module name="hw32" />
+        <module name="hw33" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hw31" target="1.7" />
+      <module name="hw32" target="1.5" />
+      <module name="hw33" target="1.7" />
       <module name="interviewHw3" target="1.5" />
     </bytecodeTargetLevel>
   </component>
